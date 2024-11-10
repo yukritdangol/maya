@@ -1,0 +1,62 @@
+*{
+    background-color: black;
+    text-align: center;
+}
+h1{
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+}
+#img1{
+    border: 5px solid blueviolet;
+    width: 600px;
+    height: 500px;
+    margin-top: 20px;
+}
+#y{
+    color: white;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: x-large;
+  border: 5px solid #F82F2B;
+  margin-bottom: 25px;
+  height: 30%;
+  width: 10%;
+  margin-left: 580px;
+  padding: 5px;
+  color: white;
+}
+#yy{
+    color: white;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: x-large;
+  border: 5px solid #EE2521;
+  margin-bottom: 25px;
+  height: 30%;
+  width: 10%;
+  margin-left: 580px;
+  padding: 5px;
+}
+#n{
+    color: white;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: x-large;
+  border: 5px solid gray;
+  margin-bottom: 25px;
+  height: 30%;
+  width: 10%;
+  margin-left: 580px;
+  padding: 5px;
+}
+a{
+  text-decoration: none;
+  color: white;
+}

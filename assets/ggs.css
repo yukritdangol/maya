@@ -1,0 +1,72 @@
+*{
+    background-color: black;
+    text-align: center;
+}
+#img1{
+    border: 5px solid purple;
+    width: 600px;
+    height: 500px;
+    margin-top: 50px;
+}
+#img2{
+    border: 5px solid blueviolet;
+    width: 20%;
+    height: 50%;
+    margin-top: 50px;
+}
+#img3{
+    border: 10px solid gray;
+
+    width: 20%;
+    height: 50%;
+    margin-top: 50px;
+}
+#Ay{
+    color: white;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: x-large;
+  margin-bottom: 25px;
+  height: 40%;
+  width: 50%;
+  margin-left: 330px;
+  padding: 5px;
+}
+p{
+    color: white;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: x-large;
+  color: white;
+  margin-bottom: 25px;
+  height: 40%;
+  width: 50%;
+  margin-left: 330px;
+  padding: 5px;
+}
+#y{
+    color: white;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: x-large;
+  margin-bottom: 25px;
+  height: 40%;
+  width: 50%;
+  margin-left: 330px;
+  padding: 5px;
+}
+#no{
+    color: gray;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: x-large;
+  margin-bottom: 25px;
+  height: 40%;
+  width: 50%;
+  margin-left: 330px;
+  padding: 5px; 
+}
